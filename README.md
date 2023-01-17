@@ -2,7 +2,7 @@
 
 These codes produce the results of the corresponding published article.
 
-![Preview](./dspoptimalprogresspreview.png "Preview")
+![Preview](./Codes/Output/Figures/dspoptimalprogresspreview.png "Preview")
 
 - Author: [Darío Serrano-Puente](https://serranopuente.eu/)
 - Article published in: <i>SERIEs - Journal of the Spanish Economic Association</i>, vol. [11(4)](https://link.springer.com/journal/13209/volumes-and-issues/11-4), pp. 407-455
