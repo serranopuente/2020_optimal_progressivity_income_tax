@@ -1,0 +1,67 @@
+
+           beta: 0.9686
+         varphi: 2.0101
+            chi: 0.5000
+           phi1: 0.9998
+           phi2: 0.9405
+          omega: 1.4155
+          kappa: 0.0574
+             e2: 1.6802
+             e3: 3.8595
+             e4: 95.3994
+    Gamma_ee_12: 0.0369
+    Gamma_ee_13: 9.0000e-04
+    Gamma_ee_14: 1.0000e-04
+    Gamma_ee_21: 0.0096
+    Gamma_ee_23: 0.0066
+    Gamma_ee_24: 2.0044e-04
+    Gamma_ee_31: 0.0020
+    Gamma_ee_32: 2.4960e-04
+    Gamma_ee_34: 0.0021
+    Gamma_ee_41: 0.0264
+    Gamma_ee_42: 0.1718
+    Gamma_ee_43: 0.0605
+
+ 
+               Columns                                             Data              Model
+
+ans =
+
+  22×3 cell array
+
+    {'Capital-output ratio'                          }    {[ 4.9000]}    {[ 4.8808]}
+    {'Gov. expenditure to output Ratio'              }    {[20.5600]}    {[21.0269]}
+    {'Transfers to output ratio'                     }    {[11.5700]}    {[11.2338]}
+    {'Share of disposable time allocated to market'  }    {[     33]}    {[32.7702]}
+    {'Ratio of earnings old to young'                }    {[ 1.0940]}    {[ 1.1316]}
+    {'Correlation of income between fathers and sons'}    {[ 0.4200]}    {[ 0.4278]}
+    {'Income Gini'                                   }    {[ 0.4500]}    {[ 0.4047]}
+    {'Wealth Gini'                                   }    {[ 0.6800]}    {[ 0.6599]}
+    {'Income share up to p40'                        }    {[14.0000]}    {[16.1273]}
+    {'Income share p41-p60'                          }    {[14.5000]}    {[14.5126]}
+    {'Income share p61-p80'                          }    {[21.7000]}    {[20.9982]}
+    {'Income share p81-p100'                         }    {[49.9000]}    {[45.3334]}
+    {'Wealth share up to p40'                        }    {[ 3.5400]}    {[ 4.2298]}
+    {'Wealth share p41-p60'                          }    {[ 9.8300]}    {[ 9.3717]}
+    {'Wealth share p61-p80'                          }    {[18.1900]}    {[18.0329]}
+    {'Wealth share p81-p100'                         }    {[68.4400]}    {[66.2667]}
+    {'Income share p90-p95'                          }    {[     11]}    {[10.3949]}
+    {'Income share p95-p99'                          }    {[13.2000]}    {[12.3393]}
+    {'Income share p99-p100'                         }    {[ 9.7000]}    {[10.1644]}
+    {'Wealth share p90-p95'                          }    {[12.8100]}    {[13.5909]}
+    {'Wealth share p95-p99'                          }    {[19.8200]}    {[18.6582]}
+    {'Wealth share p99-p100'                         }    {[20.0200]}    {[19.4298]}
+
+ 
+Current calibration count is: 16408
+ 
+Current vector of weighted distances:
+  Columns 1 through 18
+
+    0.0041    0.0106    0.0977    0.0030    0.0006    0.0001    0.0046    0.0006    0.3039    0.0017    0.0647    0.1830    0.3897    0.0933    0.0173    0.0635    0.0832    0.1403
+
+  Columns 19 through 22
+
+    0.0556    0.0857    0.1226    0.0313
+
+Current sum of weighted distances is:   1.7571 
